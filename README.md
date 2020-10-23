@@ -6,7 +6,7 @@ A django based basic calculator which contains 2 pages.
 First Page: 
 On this page, we can perform basic calculations. The following operations can be performed:
   1. Addition
-  2. Subraction
+  2. Subtraction
   3. Multiplication
   4. Division
   
